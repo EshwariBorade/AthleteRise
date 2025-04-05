@@ -5,7 +5,7 @@ AthleteRise is a personalized web platform that empowers athletes to track their
 ---
 
 MVP Live Demo
- [Click here to view the MVP](https://lovable.dev/projects/4ee23087-8231-4dce-98f1-681153a15182)
+ [Click here to view the MVP](https://preview--athlete-pathway-rise.lovable.app/)
 
 ---
 
